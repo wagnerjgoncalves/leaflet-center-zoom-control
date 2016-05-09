@@ -1,0 +1,10 @@
+#map {
+  height: 800px;
+  width: 1200px;
+}
+
+.leaflet-control-center, .leaflet-control-center.leaflet-disabled {
+  text-indent: -999em;
+  background-image: url(center.png);
+  background-size: 70%;
+}
